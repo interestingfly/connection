@@ -1,0 +1,542 @@
+[
+  {
+    "riddle": "What do you call the small aircraft used for spraying crops?",
+    "options": ["A crop duster", "A biplane", "A glider", "A jet"],
+    "answer": "A crop duster"
+  },
+  {
+    "riddle": "What do you call the action of a plane moving sideways while flying?",
+    "options": ["A yaw", "A roll", "A pitch", "A bank"],
+    "answer": "A roll"
+  },
+  {
+    "riddle": "What can be used to help a plane land safely in low visibility conditions?",
+    "options": ["A runway light", "A beacon", "A radar", "A GPS"],
+    "answer": "A runway light"
+  },
+  {
+    "riddle": "What is the term for the space where aircraft are parked and maintained at an airport?",
+    "options": ["A terminal", "A runway", "A hangar",  "A taxiway"],
+    "answer": "A hangar"
+  },
+  {
+    "riddle": "What type of aircraft is designed to transport goods and not passengers?",
+    "options": ["A cargo plane", "A jet", "A helicopter", "A glider"],
+    "answer": "A cargo plane"
+  },
+  {
+    "riddle": "What do pilots use to control the speed of an aircraft during flight?",
+    "options": ["The control yoke", "The rudder", "The throttle", "The flaps"],
+    "answer": "The throttle"
+  },
+  {
+    "riddle": "What’s the term for the angled surface on a wing that helps lift an aircraft into the air?",
+    "options": ["The airfoil", "The fuselage", "The aileron", "The elevator"],
+    "answer": "The airfoil"
+  },
+  {
+    "riddle": "What is used to provide stability and balance to an aircraft during takeoff and landing?",
+    "options": ["The control yoke", "The landing gear", "The autopilot", "The trim tabs"],
+    "answer": "The landing gear"
+  },
+  {
+    "riddle": "What part of an airplane is responsible for controlling pitch and roll?",
+    "options": ["The wings", "The control surfaces", "The landing gear", "The fuselage"],
+    "answer": "The control surfaces"
+  },
+  {
+    "riddle": "What’s the name of the vertical stabilizer at the tail of an aircraft that controls yaw?",
+    "options": ["The rudder", "The elevator", "The aileron", "The flaps"],
+    "answer": "The rudder"
+  },
+  {
+    "riddle": "What do you call the long, slender structures on either side of an aircraft that provide lift?",
+    "options": ["The wings", "The fuselage", "The stabilizers", "The elevators"],
+    "answer": "The wings"
+  },
+  {
+    "riddle": "What part of an aircraft helps to control altitude and speed by adjusting airflow?",
+    "options": ["The elevators", "The rudder", "The flaps", "The ailerons"],
+    "answer": "The flaps"
+  },
+  {
+    "riddle": "What is the term for the aircraft's body that houses passengers and cargo?",
+    "options": ["The fuselage", "The wing", "The tail", "The engine"],
+    "answer": "The fuselage"
+  },
+  {
+    "riddle": "What do you call the horizontal stabilizer at the tail of an aircraft that controls pitch?",
+    "options": ["The rudder", "The elevator", "The aileron", "The wing"],
+    "answer": "The elevator"
+  },
+  {
+    "riddle": "What part of an airplane helps control the direction and stability of the aircraft?",
+    "options": ["The control surfaces", "The landing gear", "The fuselage", "The wings"],
+    "answer": "The control surfaces"
+  },
+  {
+    "riddle": "What’s the term for the action of an aircraft descending with a controlled rate of speed?",
+    "options": ["A climb", "A roll", "A descent", "A glide"],
+    "answer": "A descent"
+  },
+  {
+    "riddle": "What do pilots use to ensure a smooth and controlled takeoff and landing?",
+    "options": ["The flaps", "The rudder", "The elevators", "The control yoke"],
+    "answer": "The flaps"
+  },
+  {
+    "riddle": "What’s the name of the device used to monitor and maintain aircraft speed during flight?",
+    "options": ["The altimeter", "The airspeed indicator", "The GPS", "The compass"],
+    "answer": "The airspeed indicator"
+  },
+  {
+    "riddle": "What is used to help an aircraft stay level during cruise flight?",
+    "options": ["The autopilot", "The trim tabs", "The control yoke", "The landing gear"],
+    "answer": "The autopilot"
+  },
+  {
+    "riddle": "What’s the name of the device used to control the movement of an aircraft’s pitch?",
+    "options": ["The rudder", "The ailerons", "The elevator", "The flaps"],
+    "answer": "The elevator"
+  },
+  {
+    "riddle": "What part of the aircraft provides the lift needed to stay airborne?",
+    "options": ["The wings", "The fuselage", "The engine", "The landing gear"],
+    "answer": "The wings"
+  },
+  {
+    "riddle": "What do you call the section of an airport where passengers board and disembark from planes?",
+    "options": ["The runway", "The terminal", "The hangar", "The control tower"],
+    "answer": "The terminal"
+  },
+  {
+    "riddle": "What’s the name for the light that guides aircraft during low visibility conditions?",
+    "options": ["A runway light", "A beacon", "A radar", "A GPS"],
+    "answer": "A runway light"
+  },
+  {
+    "riddle": "What type of aircraft is commonly used for scientific research and exploration?",
+    "options": ["A jet", "A glider", "A research plane", "A drone"],
+    "answer": "A research plane"
+  },
+  {
+    "riddle": "What’s the term for the process of an aircraft ascending into the sky?",
+    "options": ["Takeoff", "Landing", "Climb", "Descent"],
+    "answer": "Climb"
+  },
+  {
+    "riddle": "What’s the term for the section of an aircraft where passengers and cargo are stored?",
+    "options": ["The cargo hold", "The cockpit", "The fuselage", "The wings"],
+    "answer": "The cargo hold"
+  },
+  {
+    "riddle": "What’s used to provide stability and control during a plane’s descent?",
+    "options": ["The flaps", "The elevators", "The rudder", "The landing gear"],
+    "answer": "The elevators"
+  },
+  {
+    "riddle": "What’s the name of the part of an aircraft that helps control its roll and balance?",
+    "options": ["The ailerons", "The rudder", "The elevators", "The flaps"],
+    "answer": "The ailerons"
+  },
+  {
+    "riddle": "What part of an aircraft provides the thrust necessary for flight?",
+    "options": ["The engine", "The wings", "The fuselage", "The landing gear"],
+    "answer": "The engine"
+  },
+  {
+    "riddle": "What’s the name for the protective covering over the cockpit of an aircraft?",
+    "options": ["The fuselage", "The wing", "The canopy", "The engine"],
+    "answer": "The canopy"
+  },
+  {
+    "riddle": "What’s the term for the horizontal stabilizer on the tail of an aircraft that helps control pitch?",
+    "options": ["The elevator", "The rudder", "The ailerons", "The trim tabs"],
+    "answer": "The elevator"
+  },
+  {
+    "riddle": "What’s the name of the equipment used to communicate between aircraft and air traffic control?",
+    "options": ["The radar", "The GPS", "The radio", "The altimeter"],
+    "answer": "The radio"
+  },
+  {
+    "riddle": "What type of aircraft is designed for vertical takeoff and landing?",
+    "options": ["A helicopter", "A jet", "A glider", "A drone"],
+    "answer": "A helicopter"
+  },
+  {
+    "riddle": "What’s used to control the direction of an aircraft during taxiing on the ground?",
+    "options": ["The steering tiller", "The rudder", "The ailerons", "The elevators"],
+    "answer": "The steering tiller"
+  },
+  {
+    "riddle": "What part of the airplane helps manage airflow and provides lift?",
+    "options": ["The engine", "The landing gear", "The wing", "The fuselage"],
+    "answer": "The wing"
+  },
+  {
+    "riddle": "What’s the name for the process of an aircraft returning to the ground?",
+    "options": ["Landing", "Takeoff", "Descent", "Climb"],
+    "answer": "Landing"
+  },
+  {
+    "riddle": "What part of an aircraft is essential for its structural integrity and aerodynamic performance?",
+    "options": ["The fuselage", "The cockpit", "The cargo hold", "The engine"],
+    "answer": "The fuselage"
+  },
+  {
+    "riddle": "What’s the term for the act of a pilot using the control yoke to make the aircraft bank left or right?",
+    "options": ["A roll", "A yaw", "A pitch", "A climb"],
+    "answer": "A roll"
+  },
+  {
+    "riddle": "What do you call the device that helps pilots to maintain a straight and level flight?",
+    "options": ["The autopilot", "The altimeter", "The GPS", "The heading indicator"],
+    "answer": "The autopilot"
+  },
+  {
+    "riddle": "What’s the name of the vertical surface on an aircraft that helps control its yaw?",
+    "options": ["The rudder", "The elevator", "The aileron", "The stabilizer"],
+    "answer": "The rudder"
+  },
+  {
+    "riddle": "What part of an airplane is critical for controlling the direction and stability of the aircraft during flight?",
+    "options": ["The control surfaces", "The landing gear", "The fuselage", "The engine"],
+    "answer": "The control surfaces"
+  },
+  {
+    "riddle": "What’s the name of the part of the aircraft where passengers sit?",
+    "options": ["The cabin", "The cockpit", "The cargo hold", "The terminal"],
+    "answer": "The cabin"
+  },
+  {
+    "riddle": "What’s the term for the part of the aircraft that provides lift and supports flight?",
+    "options": ["The wing", "The fuselage", "The engine", "The tail"],
+    "answer": "The wing"
+  },
+  {
+    "riddle": "What’s the name of the device used to monitor the aircraft’s altitude?",
+    "options": ["The altimeter", "The airspeed indicator", "The compass", "The GPS"],
+    "answer": "The altimeter"
+  },
+  {
+    "riddle": "What’s the name of the part of the aircraft that provides the necessary thrust for flight?",
+    "options": ["The engine", "The wing", "The fuselage", "The landing gear"],
+    "answer": "The engine"
+  },
+  {
+    "riddle": "What’s the term for the device that helps an aircraft maintain a stable flight path?",
+    "options": ["The autopilot", "The heading indicator", "The GPS", "The radio"],
+    "answer": "The autopilot"
+  },
+  {
+    "riddle": "What’s the name for the part of the aircraft that assists in controlling its direction during a climb?",
+    "options": ["The elevators", "The rudder", "The ailerons", "The flaps"],
+    "answer": "The elevators"
+  },
+  {
+    "riddle": "What’s the name of the equipment that helps pilots avoid collisions with other aircraft?",
+    "options": ["The radar", "The GPS", "The radio", "The altimeter"],
+    "answer": "The radar"
+  },
+  {
+    "riddle": "What’s the term for the device used to maintain the aircraft’s speed?",
+    "options": ["The airspeed indicator", "The altimeter", "The GPS", "The heading indicator"],
+    "answer": "The airspeed indicator"
+  },
+  {
+    "riddle": "What do you call the part of the aircraft that controls the aircraft's pitch?",
+    "options": ["The elevator", "The rudder", "The ailerons", "The flaps"],
+    "answer": "The elevator"
+  },
+  {
+    "riddle": "What’s the term for the part of the aircraft that helps provide stability during a descent?",
+    "options": ["The elevators", "The rudder", "The ailerons", "The flaps"],
+    "answer": "The elevators"
+  },
+  {
+    "riddle": "What’s the name of the device that assists in the navigation of an aircraft during a flight?",
+    "options": ["The GPS", "The radio", "The radar", "The altimeter"],
+    "answer": "The GPS"
+  },
+  {
+    "riddle": "What’s the term for the section of the aircraft where the pilots control the plane?",
+    "options": ["The cockpit", "The cabin", "The cargo hold", "The terminal"],
+    "answer": "The cockpit"
+  },
+  {
+    "riddle": "What’s the name of the part of an aircraft that provides lift and supports flight?",
+    "options": ["The wing", "The fuselage", "The engine", "The tail"],
+    "answer": "The wing"
+  },
+  {
+    "riddle": "What part of the aircraft helps control the aircraft's direction and stability?",
+    "options": ["The control surfaces", "The landing gear", "The fuselage", "The wings"],
+    "answer": "The control surfaces"
+  },
+  {
+    "riddle": "What do you call the device used to control the aircraft’s roll?",
+    "options": ["The ailerons", "The elevators", "The rudder", "The flaps"],
+    "answer": "The ailerons"
+  },
+  {
+    "riddle": "What’s the name of the equipment used to ensure safe communication with air traffic control?",
+    "options": ["The radio", "The radar", "The GPS", "The altimeter"],
+    "answer": "The radio"
+  },
+  {
+    "riddle": "What’s the term for the section of the airport where passengers board and disembark from planes?",
+    "options": ["The terminal", "The runway", "The hangar", "The control tower"],
+    "answer": "The terminal"
+  },
+  {
+    "riddle": "What’s the name for the protective covering that shields the cockpit from the elements?",
+    "options": ["The canopy", "The fuselage", "The wing", "The engine"],
+    "answer": "The canopy"
+  },
+  {
+    "riddle": "What part of an aircraft is essential for its structural integrity and aerodynamic performance?",
+    "options": ["The fuselage", "The cockpit", "The cargo hold", "The engine"],
+    "answer": "The fuselage"
+  },
+  {
+    "riddle": "What’s the term for the device that helps pilots to maintain a straight and level flight?",
+    "options": ["The autopilot", "The altimeter", "The GPS", "The heading indicator"],
+    "answer": "The autopilot"
+  },
+  {
+    "riddle": "What part of the aircraft helps manage airflow and provides lift?",
+    "options": ["The wing", "The engine", "The landing gear", "The fuselage"],
+    "answer": "The wing"
+  },
+  {
+    "riddle": "What’s the term for the process of an aircraft returning to the ground?",
+    "options": ["Landing", "Takeoff", "Descent", "Climb"],
+    "answer": "Landing"
+  },
+  {
+    "riddle": "What do you call the device that provides guidance for landing during poor visibility conditions?",
+    "options": ["The ILS", "The GPS", "The radar", "The radio"],
+    "answer": "The ILS"
+  },
+  {
+    "riddle": "What’s the name of the part of an aircraft that assists in controlling its direction during flight?",
+    "options": ["The control surfaces", "The landing gear", "The fuselage", "The engine"],
+    "answer": "The control surfaces"
+  },
+  {
+    "riddle": "What’s the term for the horizontal stabilizer on the tail of an aircraft that helps control pitch?",
+    "options": ["The elevator", "The rudder", "The ailerons", "The trim tabs"],
+    "answer": "The elevator"
+  },
+  {
+    "riddle": "What’s the name of the equipment that helps pilots avoid collisions with other aircraft?",
+    "options": ["The radar", "The GPS", "The radio", "The altimeter"],
+    "answer": "The radar"
+  },
+  {
+    "riddle": "What do pilots use to control the speed of an aircraft during flight?",
+    "options": ["The throttle", "The control yoke", "The rudder", "The flaps"],
+    "answer": "The throttle"
+  },
+  {
+    "riddle": "What’s the name of the part of the aircraft that helps control its roll and balance?",
+    "options": ["The ailerons", "The rudder", "The elevators", "The flaps"],
+    "answer": "The ailerons"
+  },
+  {
+    "riddle": "What’s the term for the device used to maintain the aircraft’s speed?",
+    "options": ["The airspeed indicator", "The altimeter", "The GPS", "The heading indicator"],
+    "answer": "The airspeed indicator"
+  },
+  {
+    "riddle": "What’s the name of the section of the aircraft where passengers sit?",
+    "options": ["The cabin", "The cockpit", "The cargo hold", "The terminal"],
+    "answer": "The cabin"
+  },
+  {
+    "riddle": "What part of an aircraft provides the necessary thrust for flight?",
+    "options": ["The engine", "The wing", "The fuselage", "The landing gear"],
+    "answer": "The engine"
+  },
+  {
+    "riddle": "What’s the name of the device used to monitor the aircraft’s altitude?",
+    "options": ["The altimeter", "The airspeed indicator", "The compass", "The GPS"],
+    "answer": "The altimeter"
+  },
+  {
+    "riddle": "What’s the term for the equipment that helps pilots to avoid collisions with other aircraft?",
+    "options": ["The radar", "The GPS", "The radio", "The altimeter"],
+    "answer": "The radar"
+  },
+  {
+    "riddle": "What’s the name of the device that helps pilots to maintain a stable flight path?",
+    "options": ["The autopilot", "The heading indicator", "The GPS", "The radio"],
+    "answer": "The autopilot"
+  },
+  {
+    "riddle": "What part of an airplane is critical for controlling the direction and stability of the aircraft during flight?",
+    "options": ["The control surfaces", "The landing gear", "The fuselage", "The engine"],
+    "answer": "The control surfaces"
+  },
+  {
+    "riddle": "What’s the name for the part of the aircraft that provides lift and supports flight?",
+    "options": ["The wing", "The fuselage", "The engine", "The tail"],
+    "answer": "The wing"
+  },
+  {
+    "riddle": "What’s the term for the section of an airport where passengers board and disembark from planes?",
+    "options": ["The terminal", "The runway", "The hangar", "The control tower"],
+    "answer": "The terminal"
+  },
+  {
+    "riddle": "What’s the name for the protective covering that shields the cockpit from the elements?",
+    "options": ["The canopy", "The fuselage", "The wing", "The engine"],
+    "answer": "The canopy"
+  },
+  {
+    "riddle": "What do pilots use to control the speed of an aircraft during flight?",
+    "options": ["The throttle", "The control yoke", "The rudder", "The flaps"],
+    "answer": "The throttle"
+  },
+  {
+    "riddle": "What’s the name of the device used to control the aircraft’s pitch?",
+    "options": ["The elevator", "The rudder", "The ailerons", "The flaps"],
+    "answer": "The elevator"
+  },
+  {
+    "riddle": "What’s the term for the part of the aircraft that helps provide stability during a descent?",
+    "options": ["The elevators", "The rudder", "The ailerons", "The flaps"],
+    "answer": "The elevators"
+  },
+  {
+    "riddle": "What’s the name of the equipment used to ensure safe communication with air traffic control?",
+    "options": ["The radio", "The radar", "The GPS", "The altimeter"],
+    "answer": "The radio"
+  },
+  {
+    "riddle": "What’s the term for the device used to monitor the aircraft’s altitude?",
+    "options": ["The altimeter", "The airspeed indicator", "The compass", "The GPS"],
+    "answer": "The altimeter"
+  },
+  {
+    "riddle": "What’s the name of the equipment that helps pilots avoid collisions with other aircraft?",
+    "options": ["The radar", "The GPS", "The radio", "The altimeter"],
+    "answer": "The radar"
+  },
+  {
+    "riddle": "What part of an aircraft provides the lift needed to stay airborne?",
+    "options": ["The wings", "The fuselage", "The engine", "The landing gear"],
+    "answer": "The wings"
+  },
+  {
+    "riddle": "What’s the term for the part of the aircraft that helps control its roll and balance?",
+    "options": ["The ailerons", "The rudder", "The elevators", "The flaps"],
+    "answer": "The ailerons"
+  },
+  {
+    "riddle": "What’s the name of the section of the aircraft where passengers sit?",
+    "options": ["The cabin", "The cockpit", "The cargo hold", "The terminal"],
+    "answer": "The cabin"
+  },
+  {
+    "riddle": "What’s the term for the protective covering over the cockpit of an aircraft?",
+    "options": ["The canopy", "The fuselage", "The wing", "The engine"],
+    "answer": "The canopy"
+  },
+  {
+    "riddle": "What’s the name of the part of the aircraft that assists in controlling its direction during flight?",
+    "options": ["The control surfaces", "The landing gear", "The fuselage", "The engine"],
+    "answer": "The control surfaces"
+  },
+  {
+    "riddle": "What do pilots use to ensure a smooth and controlled takeoff and landing?",
+    "options": ["The flaps", "The rudder", "The elevators", "The control yoke"],
+    "answer": "The flaps"
+  },
+  {
+    "riddle": "What part of an aircraft is critical for controlling the direction and stability of the aircraft during flight?",
+    "options": ["The control surfaces", "The landing gear", "The fuselage", "The engine"],
+    "answer": "The control surfaces"
+  },
+  {
+    "riddle": "What’s the name for the device used to monitor the aircraft’s altitude?",
+    "options": ["The altimeter", "The airspeed indicator", "The compass", "The GPS"],
+    "answer": "The altimeter"
+  },
+  {
+    "riddle": "What part of the aircraft provides the necessary thrust for flight?",
+    "options": ["The engine", "The wing", "The fuselage", "The landing gear"],
+    "answer": "The engine"
+  },
+  {
+    "riddle": "What’s the term for the section of the aircraft where passengers sit?",
+    "options": ["The cabin", "The cockpit", "The cargo hold", "The terminal"],
+    "answer": "The cabin"
+  },
+  {
+    "riddle": "What’s the name of the equipment used to ensure safe communication with air traffic control?",
+    "options": ["The radio", "The radar", "The GPS", "The altimeter"],
+    "answer": "The radio"
+  },
+  {
+    "riddle": "What do you call the section of the aircraft where passengers and cargo are stored?",
+    "options": ["The cargo hold", "The cockpit", "The fuselage", "The wings"],
+    "answer": "The cargo hold"
+  },
+  {
+    "riddle": "What’s the term for the device used to control the aircraft’s roll?",
+    "options": ["The ailerons", "The elevators", "The rudder", "The flaps"],
+    "answer": "The ailerons"
+  },
+  {
+    "riddle": "What’s the term for the part of the aircraft that helps provide stability during a descent?",
+    "options": ["The elevators", "The rudder", "The ailerons", "The flaps"],
+    "answer": "The elevators"
+  },
+  {
+    "riddle": "What’s the name of the part of the aircraft that helps control its roll and balance?",
+    "options": ["The ailerons", "The rudder", "The elevators", "The flaps"],
+    "answer": "The ailerons"
+  },
+  {
+    "riddle": "What’s the term for the part of the aircraft that helps control its roll and balance?",
+    "options": ["The ailerons", "The rudder", "The elevators", "The flaps"],
+    "answer": "The ailerons"
+  },
+  {
+    "riddle": "What’s the name of the equipment used to ensure safe communication with air traffic control?",
+    "options": ["The radio", "The radar", "The GPS", "The altimeter"],
+    "answer": "The radio"
+  },
+  {
+    "riddle": "What’s the term for the equipment that helps pilots avoid collisions with other aircraft?",
+    "options": ["The radar", "The GPS", "The radio", "The altimeter"],
+    "answer": "The radar"
+  },
+  {
+    "riddle": "What do pilots use to control the speed of an aircraft during flight?",
+    "options": ["The throttle", "The control yoke", "The rudder", "The flaps"],
+    "answer": "The throttle"
+  },
+  {
+    "riddle": "What’s the term for the device used to monitor the aircraft’s altitude?",
+    "options": ["The altimeter", "The airspeed indicator", "The compass", "The GPS"],
+    "answer": "The altimeter"
+  },
+  {
+    "riddle": "What’s the term for the part of the aircraft that helps control its roll and balance?",
+    "options": ["The ailerons", "The rudder", "The elevators", "The flaps"],
+    "answer": "The ailerons"
+  },
+  {
+    "riddle": "What’s the name of the part of the aircraft that provides the necessary thrust for flight?",
+    "options": ["The engine", "The wing", "The fuselage", "The landing gear"],
+    "answer": "The engine"
+  },
+  {
+    "riddle": "What’s the term for the section of the aircraft where passengers sit?",
+    "options": ["The cabin", "The cockpit", "The cargo hold", "The terminal"],
+    "answer": "The cabin"
+  }
+]
