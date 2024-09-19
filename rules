@@ -1,0 +1,6 @@
+[
+  { "number": "1.", "text": "Tap on the screen to control the plane" },
+  { "number": "2.", "text": "Fuel tank decreases as you move" },
+  { "number": "3.", "text": "Answer questions to restore fuel" },
+  { "number": "4.", "text": "Game ends when no fuel is left" }
+]
