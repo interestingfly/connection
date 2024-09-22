@@ -1,6 +1,6 @@
 [
-  { "number": "1.", "text": "Tap on the screen to control the plane" },
-  { "number": "2.", "text": "Fuel tank decreases as you move" },
-  { "number": "3.", "text": "Answer questions to restore fuel" },
-  { "number": "4.", "text": "Game ends when no fuel is left" }
+  { "number": "1.", "text": "Tap on the screen to control the plane", "imageURL": "https://i.ibb.co/ZGBs9Yc/controlflight.jpg" },
+  { "number": "2.", "text": "Fuel tank decreases as you move", "imageURL": "https://i.ibb.co/w4vwzTG/fuel.jpg" },
+  { "number": "3.", "text": "Answer questions to restore fuel", "imageURL": "https://i.ibb.co/hYPbFkp/answer.jpg" },
+  { "number": "4.", "text": "Game ends when no fuel is left", "imageURL": "https://i.ibb.co/FVdJSgG/gameovaer.jpg" }
 ]
